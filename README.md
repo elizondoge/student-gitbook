@@ -1,14 +1,14 @@
 {% include "./header.md" %}
 
-Thank you for your interest in Austin Coding Academy. Meet Luke Stenis. He more than tripled his salary after graduating from our program:
+Thank you for your interest in Austin Coding Academy. Meet Lillian Situ. Formerly working in project management and social work, Lillian changed her career and is now a software engineer because of ACA. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UTPlFwnKrEo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AVMkl06b5IE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Tracks
 
 We offers 2 tracks of focus:
-* Full Stack JavaScript/Node.js
-* C# .NET Core
+* Full Stack JavaScript
+* C# .NET 
 
 Our curriculum is designed by industry experts to give you important job skills. Everything you learn will help you land the job of your dreams. Our graduates are finding great jobs and impressing their bosses with their knowledge and skills.
 
