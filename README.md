@@ -16,20 +16,16 @@ Our curriculum is designed by industry experts to give you important job skills.
 
 * [JavaScript Web Development Syllabus](FSWD-JS.md)
   * [101 Intro to Web](FSWD-JS.md#101-intro-to-web)
-  * [211 JavaScript Full Stack](/FSWD-JS.md#211-javascript-full-stack)
-  * [311 JavaScript Full Stack](/FSWD-JS.md#311-javascript-full-stack)
-* [C# .NET Web Development Syllabus](FSWD-CSHARPDOTNET.md)
+  * [211 JavaScript Basics](/FSWD-JS.md#211-javascript-full-stack)
+  * [311 JavaScript Back-End](/FSWD-JS.md#311-javascript-full-stack)
+  * [411 JavaScript Front-End]
+* [C# .NET ](FSWD-CSHARPDOTNET.md)
   * [101 Intro to Web](/FSWD-CSHARPDOTNET.md#101-intro-to-web)
-  * [221 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#221-c-net-full-stack)
-  * [321 C# .NET Full Stack](/FSWD-CSHARPDOTNET.md#321-c-net-full-stack)
+  * [221 C# Basics](/FSWD-CSHARPDOTNET.md#221-c-net-full-stack)
+  * [321 C# .NET Back-End](/FSWD-CSHARPDOTNET.md#321-c-net-full-stack)
+  * [C# Front-End] 
 
-### Course Catalogs
 
-We are a licensed Career School in the State of Texas. We work with the Texas Workforce Commission to ensure all of our students are treated fairly and with respect. You may view our course catalogs, which have been approved by the Texas Workforce Commission, below:
-
-* [Austin Coding Academy](https://docs.google.com/document/d/123TPV2I6gx1EWJu0vEwl8_nSzc6pFwtyBGH8i30h2c4/edit?usp=sharing)
-* [North Austin Coding Academy](https://docs.google.com/a/austincodingacademy.com/document/d/1LoT7N5vCxANQ7CN-MCS55ZuOtXHgjkJs3qeI8rG_XBE/edit?usp=sharing)
-<!-- * [San Antonio Coding Academy](https://docs.google.com/document/d/1ZMtSfoxoiBSwZFmEsM2VOqyUcXc7x8NujfyTPAIF4Vw/edit?usp=sharing) -->
 
 {% include "./footer.md" %}
 
