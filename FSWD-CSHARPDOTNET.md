@@ -2,10 +2,22 @@
 
 # Full Stack Web Development - C# .NET
 
-This program consists of 3 courses:
+This program consists of 4 courses:
 * 101 Intro to Web
-* 221 C# .NET
-* 321 C# .NET
+* 221 C# Basics
+* 321 C# .NET Back-End
+* 421 C# Front-End
+
+And followed by a free 4-week job placement course led by a tech recruiter who knows what companies are looking for. You get a chance to go over: 
+
+* Resumes
+* Cover Letters
+* Mock Interviews 
+* Whiteboarding Interview Practice 
+* Networking Events 
+* Guest Speakers
+* And more ...
+
 
 Our students who graduated from this program have found jobs at Frost Bank, Microsoft, and with Military Contractors.  
 
@@ -14,215 +26,65 @@ Each course is explained below.
 ## 101 Intro to Web
 
 #### Subject Description
-The purpose of this course is to teach students how to develop professional, modern websites and become familiar with the basics of HTML, CSS and JavaScript. Students learn industry standard technologies and approaches to design that will allow them to build responsive and interactive websites which means that the websites will look good on all devices (mobile, tablet, desktop, etc.) and respond to user interface.
+Same as the 101 Intro to Web for JavaScript, the course is designed to teach you the foundations of building professional, mordern websites and familiarize you with the basics of HTML, CSS, and JavaScript. You'll learn industry-standard technologies and approaches to design so that you can build responsibe, interactive websites. 
+ 
 
 #### Subject Hours
-50 Course Hours
+40 Course Hours
 
-#### Performance Objectives
-* Structure websites with HTML.
-* Style HTML with CSS.
-* Build responsive websites with Flexbox and Bootstrap Grid.
-* Use Git for version control and code collaboration.
-* Use JQuery to manipulate the Document Object Model.
-* Be fluent in the basics of JavaScript.
+#### Coursework Highlights
+* HTML5
+* CSS3
+* Version Control
+* Responsive Web Design
+* JavaScript Basics & DOM Manipulation 
+* Animations and Transitions 
 
-#### Daily Content Outline
-
-* Week 1
-
-  * Day 1 - Lesson 1: Git
-  * Day 2 - Lesson 2: Semantic Elements
-
-* Week 2
-
-  * Day 1 - Lesson 3: CSS
-  * Day 2 - Lesson 4: CSS Selectors
-
-* Week 3
-
-  * Day 1 - Lesson 5: Box Model
-  * Day 2 - Lesson 6: UI/UX
-
-* Checkpoint 1 - Weekend Take Home Project (Test)
-
-* Week 4
-
-  * Day 1 - Lesson 7: Flexbox Layout
-  * Day 2 - Lesson 8: Media Queries
-
-* Week 5
-
-  * Day 1 -  Lesson 9: Bootstrap Grid
-  * Day 2 - Lesson 10: Transitions and Transformations
-
-* Week 6
-
-  * Day 1 - Lesson 11: Document Object Model
-  * Day 2 - Lesson 12: JavaScript Introduction
-
-* Checkpoint 2 - Weekend Take Home Project (Test)
-
-* Week 7
-
-  * Day 1 - Lesson 13: JavaScript Conditionals and Loops
-  * Day 2 - Lesson 14: JavaScript Advanced Array Methods
-
-* Week 8
-
-  * Day 1 - Lesson 15: JQuery
-  * Day 2 - Lesson 16: Forms Introduction
-
-* Week 9
-
-  * Day 1 - Lesson 17: Forms Advanced
-  * Day 2 - Lesson 18: Media Controls and Canvas
-
-* Checkpoint 3 - Weekend Take Home Project (Test)
-
-* Week 10
-
-  * Day 1 - Lesson 19: Manipulating Elements
-  * Day 2 - Final Project Presentations
-
-## 221 C# .NET
+## 221 C# Basics
 
 #### Subject Description
-The purpose of this course is to teach students the basics of C# and SQL. C# is one of the most popular programming languages in the world and is supported by all modern browsers. SQL is one of most popular databases in use today.
+C# (C Sharp) is one of the most prominent scripting languages in the world. In this class, you will learn the fundamentals of C# and Object-Oriented programming (OOP) while building terminal applications, unit tests, and algorithms. OOP is a fundamental concept to software development and a requirement for future application development. 
 
 #### Subject Hours
-50 Course Hours
+40 Course Hours
 
 #### Performance Objectives
-* Learn C# Syntax
-* Build terminal apps using C#
-* Understand how a SQL database works
-* Store data in and access data from a SQL Database
-
-#### Daily Content Outline
-
-* Week 1
-
-  * Day 1 - Lesson 1: Variables and Scope
-  * Day 2 - Lesson 2: Objects and Methods
-
-* Week 2
-
-  * Day 1 - Lesson 3: Try-Catch-Finally and Checking for Null Values
-  * Day 2 - Lesson 4: JQuery and AJAX
-
-* Week 3
-
-  * Day 1 - Lesson 5: Callbacks, This, and Fetch API
-  * Day 2 - Lesson 6: JSON and XML
-
-* Checkpoint 1 - Weekend Take Home Project (Test)
-
-* Week 4
-
-  * Day 1 - Lesson 7: XMLHttpRequest, Serialize and Deserialize Data
-  * Day 2 - Lesson 8: Implement Multithreading and Asynchronous Processing
-
-* Week 5
-
-  * Day 1 - Lesson 9: Manage Multithreading
-  * Day 2 - Lesson 10: Implement Program Flow
-
-* Week 6
-
-  * Day 1 - Lesson 11: Create and Implement Events and Callbacks
-  * Day 2 - Lesson 12: Implement Exception Handling
-
-* Checkpoint 2 - Weekend Take Home Project (Test)
-
-* Week 7
-
-  * Day 1 - Lesson 13: Create Types
-  * Day 2 - Lesson 14: Consume Types
-
-* Week 8
-
-  * Day 1 - Lesson 15: Create and Implement a Class Hierarchy
-  * Day 2 - Lesson 16: Manipulate Strings
-
-* Week 9
-
-  * Day 1 - Lesson 17: Perform I/O Operations and Consume Date
-  * Day 2 - Lesson 18: LINQ
-
-* Checkpoint 3 - Weekend Take Home Project (Test)
-
-* Week 10
-
-  * Day 1 - Lesson 19: SQL Crash Course
-  * Day 2 - Final Project Presentations
+* Immersion in Object Oriented Programming (OOP)
+* Master Unit Testing + Test Driven Development (TDD)
+* Learn Best Practices in Data Structures
+* Learn to Use and Build Your Own Algorithms
+* Leave the Class with a Functional Terminal app
 
 
-## 321 C# .NET 
+## 321 C# .Net Back-End 
 
 #### Subject Description
-The purpose of this subject is to teach students how to build modern web apps utilizing the .NET framework and associated technologies. Upon completion, students will be prepared to begin working as a full stack web developer.
+Build an MVC application using C#. The .NET (dot net) Software Framework was developed by Microsoft and is used to build web and desktop applications for large companies and government entities. This class will cover architecture, hosting, deployment, and user authentication using the .NET Framework. 
 
 #### Subject Hours
-50 Course Hours
+40 Course Hours
 
 #### Performance Objectives
-* Design application architecture
-* Design user experience
-* Develop the user experience
-* Troubleshoot and debug web applications
-* Design and implement security
+* .NET Framework
+* MVC - Model, View, Controller 
+* Shape your own SQL Database
+* Rapid development with Razor
+* Utilize the Entity Framework
+* Learn to host, deploy and manage your web applications
 
-#### Daily Content Outline
+## 421 C# Front-End
 
-* Week 1
+#### Subject Description
+In this class, students build ??
 
-  * Day 1 - Lesson 1: Environment and First MVC App
-  * Day 2 - Lesson 2: MVC Architecture
+#### Subject Hours
+40 Course Hours
 
-* Week 2
+#### Performance Objectives
+* need to put stuff here
 
-  * Day 1 - Lesson 3: Action Results and Routing
-  * Day 2 - Lesson 4: Razor
 
-* Week 3
 
-  * Day 1 - Lesson 5: Features of Visual Studio
-  * Day 2 - Lesson 6: Checkpoint 1
 
-* Week 4
-
-  * Day 1 - Lesson 7: Database
-  * Day 2 - Lesson 8: Forms
-
-* Week 5
-
-  * Day 1 -  Lesson 9: Form Validation
-  * Day 2 - Lesson 10: Unit Testing
-
-* Week 6
-
-  * Day 1 - Lesson 11: Checkpoint 2
-  * Day 2 - Lesson 12: MVC Architecture Pt. 1
-
-* Week 7
-
-  * Day 1 - Lesson 13: MVC Architecture Pt. 2
-  * Day 2 - Lesson 14: MVC Architecture Pt. 3
-
-* Week 8
-
-  * Day 1 - Lesson 15: Navigation
-  * Day 2 - Lesson 16: Shopping Cart
-
-* Week 9
-
-  * Day 1 - Lesson 17: Administration
-  * Day 2 - Lesson 18: Security
-
-* Week 10
-
-  * Day 1 - Lesson 19: Deployment
-  * Day 2 - Final Project Presentations
 
 {% include "./footer.md" %}
